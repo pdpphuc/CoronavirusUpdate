@@ -1,0 +1,1 @@
+pyinstaller __main__.py --onefile -w --icon=covid19-icon.ico
